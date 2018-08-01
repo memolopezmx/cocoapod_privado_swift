@@ -214,7 +214,7 @@ Importamos el pod, sólo la primera vez, después quedará para todo el proyecto
 
 Comprobamos que lo puedamos usar correctamente.
 
-<p align="centerc">
+<p align="center">
 	<img src="imgs/img19.png" width="720px" height="450px">
 </p>
 
