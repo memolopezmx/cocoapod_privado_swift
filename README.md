@@ -222,7 +222,11 @@ Comprobamos que lo puedamos usar correctamente.
 
 * Las clases de nuestro código deben ser publicas (los métodos pueden ser privados) para poder acceder a ellas.
 
+## Fuente
 
+* <a href="https://www.youtube.com/watch?v=dcumNBdPl9Q">Private Cocoapods: Push Library to your Private Cocoapods [2/3]</a> 
+
+* <a href="https://github.com/CocoaPods/CocoaPods/issues/6035">gzncland commented</a> 
 
 
 
