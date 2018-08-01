@@ -11,15 +11,15 @@ Como requerimiento debemos tener nuestra claseo o clases con el código que quer
 
 Para este usaremos <a href="https://gitlab.com/">Gitlab</a> pero podemos usar BitBucket o cualquier otro.
 
-<p>
+<p align="center">
 	<img src="imgs/img1.png" width="720px" height="450px">
 </p>
 
-<p>
+<p align="center">
 	<img src="imgs/img2.png" width="720px" height="450px">
 </p>
 
-<p>
+<p align="center">
 	<img src="imgs/img3.png" width="720px" height="450px">
 </p>
 
@@ -27,25 +27,25 @@ Para este usaremos <a href="https://gitlab.com/">Gitlab</a> pero podemos usar Bi
 
 Creamos un framework adaptando nuestra funcionalidad para que se pueda usar instanciando una clase o llamando a un método de esa clase. En mi caso creare una nueva clase y agregare las funciones a esta.
 
-<p>
+<p align="center">
 	<img src="imgs/img4.png" width="720px" height="450px">
 </p>
 
-<p>
+<p align="center">
 	<img src="imgs/img5.png" width="720px" height="450px">
 </p>
 
-<p>
+<p align="center">
 	<img src="imgs/img6.png" width="720px" height="450px">
 </p>
 
 En mi caso la clase se llama igual que el framework pero puede variar.
 
-<p>
+<p align="center">
 	<img src="imgs/img7.png" width="720px" height="450px">
 </p>
 
-<p>
+<p align="center">
 	<img src="imgs/img8.png" width="720px" height="450px">
 </p>
 
@@ -69,7 +69,7 @@ git tag 0.0.1
 git push origin master --tags
 ```
 
-<p>
+<p align="center">
 	<img src="imgs/img9.png" width="720px" height="450px">
 </p>
 
@@ -112,7 +112,7 @@ end
 ```
 Se verá algo así:
 
-<p>
+<p align="center">
 	<img src="imgs/img10.png" width="720px" height="450px">
 </p>
 
@@ -130,7 +130,7 @@ Aparte del archivo de configuración podspec debemos agregar vincular el pod con
 > pod repo add DGEnigma url_repo.git
 ```
 
-<p>
+<p align="center">
 	<img src="imgs/img11.png" width="720px" height="450px">
 </p>
 
@@ -140,7 +140,7 @@ comprobamos que ya exista con:
 > pod repo
 ```
 
-<p>
+<p align="center">
 	<img src="imgs/img12.png" width="720px" height="450px">
 </p>
 
@@ -161,7 +161,7 @@ si nos pide especifidar la versión de Swift basta con:
 
 se verá algo así
 
-<p>
+<p align="center">
 	<img src="imgs/img13.png" width="720px" height="450px">
 </p>
 
@@ -170,7 +170,7 @@ se verá algo así
 #### 7.1 
 Creamos un proyecto prueba y hacemos un *pod init*
 
-<p>
+<p align="center">
 	<img src="imgs/img14.png" width="720px" height="450px">
 </p>
 
@@ -178,11 +178,11 @@ Creamos un proyecto prueba y hacemos un *pod init*
 
 Debe coincidir la plataforma con el target de nuestro proyecto.
 
-<p>
+<p align="center">
 	<img src="imgs/img15.png" width="720px" height="450px">
 </p>
 
-<p>
+<p align="center">
 	<img src="imgs/img16.png" width="720px" height="450px">
 </p>
 
@@ -190,7 +190,7 @@ Debe coincidir la plataforma con el target de nuestro proyecto.
 
 Agregamos el enlace de nuestro repo y el pod al *Podfile*:
 
-<p>
+<p align="center">
 	<img src="imgs/img17.png" width="720px" height="450px">
 </p>
 
@@ -198,7 +198,7 @@ Agregamos el enlace de nuestro repo y el pod al *Podfile*:
 
 Corremos *pod install*
 
-<p>
+<p align="center">
 	<img src="imgs/img18.png" width="720px" height="450px">
 </p>
 
